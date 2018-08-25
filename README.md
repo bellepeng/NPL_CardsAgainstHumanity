@@ -12,7 +12,7 @@
 
 **Generate new Answer Cards (Natural Language Generation NLG)** - Because the old cards are now tired if you play the game enough times
 
-</n>
+<br><br/>
 
 <u>**Methods Used and Results:**</u>
 
